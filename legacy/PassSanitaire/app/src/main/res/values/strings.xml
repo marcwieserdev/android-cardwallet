@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PassSanitaire</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_tuto">Bienvenue !</string>
+    <string name="tuto_desc">Vous n\'avez pas encore scanner votre pass sanitaire ! Dans la prochaine étape vous allez devoir scanner le QR-Code en haut à droite de votre pass sanitaire quand il est déplié</string>
+    <string name="tuto_authorize_desc">L\'application ne demandera que l\'utilisation de votre appareil photo afin de de scanner le QR-Code.</string>
+    <string name="btn_scan">Okay, lets go!</string>
+    <string name="additional_info_title">Informations additionnelles</string>
+    <string name="save">OK</string>
+    <string name="lbl_firstname">Prénom :</string>
+    <string name="lbl_name">Nom :</string>
+    <string name="lbl_dob">Date de naissance :</string>
+    <string name="lbl_name_simple">Nom</string>
+    <string name="lbl_firstname_simple">Prénom</string>
+    <string name="lbl_dob_simple">Date de naissance</string>
+</resources>
